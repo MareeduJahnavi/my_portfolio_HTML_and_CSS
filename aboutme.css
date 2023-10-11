@@ -1,0 +1,24 @@
+p{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    color: purple;
+    animation-name: a;
+    animation-duration: 5s;
+    border: 1px ridge rgb(240, 237, 237);
+    margin-left: 135px;
+    margin-right: 135px;
+}
+img{
+    margin-left: 500px;
+    border: 2px solid skyblue;
+    border-radius: 10px;
+}
+
+@keyframes a{
+    from{color: purple;}
+    to{color: rgb(30, 91, 184);}
+}
+body{
+    background-color: silver;
+}

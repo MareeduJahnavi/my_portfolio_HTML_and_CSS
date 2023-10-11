@@ -1,0 +1,34 @@
+.column{
+    width: 60%; float: left; 
+    margin-left: 130px;
+}
+.column1{
+    width: 30%; float: right;
+}
+.row{
+    text-align: center;
+    color: white;
+}
+table{
+    font-size: larger;
+    font-family: Georgia;
+}
+#s1{
+    font-size: 30px;
+    margin-left: 370px;
+    width: 50%;
+    color: #FB2576;
+}
+#s2{
+    font-size: 30px;
+    margin-left: 410px;
+    color: #FB2576;
+}
+body {
+    background-image: url("B2.jpg"); 
+    background-size: 1370px 700px;
+    background-repeat: no-repeat;
+}
+table{
+    border-color: #9E9D89;
+}

@@ -1,0 +1,66 @@
+body{
+    background-image: url("B4.jpg");
+    background-size: 1350px 2550px;
+}
+p{
+    text-align: center;
+    border: 1px dotted rgb(245, 206, 122);
+    background-color: goldenrod;
+    color: #864000;
+    font-size: 50px;
+}
+big{
+    color: #693505;
+}
+#i1,#i3,#i5,#i7,#i9{
+    margin-left: 125px;
+    border: 0.5px solid silver;
+    border-radius: 5px;
+}
+#i2,#i4,#i6,#i8,#i10{
+    margin-left: 32px;
+    border: 0.5px solid silver;
+    border-radius: 5px;
+}
+#b1{
+    margin-left: 150px;
+}
+#be1{
+    margin-left: 300px;
+}
+#b2{
+    margin-left: 63px;
+}
+#b3{
+    margin-left: 150px;
+}
+#b4{
+    margin-left: 70px;
+}
+#be2{
+    margin-left: 830px;
+}
+#b5{
+    margin-left: 180px;
+}
+#b6{
+    margin-left: 160px;
+}
+#b7{
+    margin-left: 150px;
+}
+#be3{
+    margin-left: 340px;
+}
+#b8{
+    margin-left: 160px;
+}
+#b9{
+    margin-left: 160px;
+}
+#be4{
+    margin-left: 300px;
+}
+#b10{
+    margin-left: 80px;
+}

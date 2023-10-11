@@ -1,0 +1,46 @@
+img{
+    margin-left: 90px;
+    margin-top: 10px;
+}
+#a1{
+    margin-left: 370px;
+    text-decoration: none;
+    font-size: 17px;
+}
+#a2,#a3,#a4,#a5{
+    font-size: 17px;
+    margin-left: 45px;
+    text-decoration: none;
+}
+#a6{
+    font-family: Georgia;
+    color: white;
+    margin-left: 650px;
+    font-size: large;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-size: 70px;
+    font-family: Georgia;
+    color: white;
+    -webkit-text-stroke: 2px white;
+    
+}
+a:link{
+    color: rgb(35, 199, 211);
+}
+a:visited{
+    color: whitesmoke;
+}
+a:active{
+    color: rgb(42, 221, 102);
+} 
+#a6:hover{
+    color: aqua;
+}
+body{
+    background-image: url(B1.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px 2550px;
+}

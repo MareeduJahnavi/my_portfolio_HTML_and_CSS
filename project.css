@@ -1,0 +1,96 @@
+.d1{
+    float: left;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+.d2{
+    font-size: 50px;
+    float: right;
+    margin-right: 560px;
+    margin-top: 50px;
+    background: -webkit-linear-gradient(#46244C,#7C3E66, #E78EA9);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.d3{
+    float: left;
+    padding-left: 250px;
+    padding-top: 50px;
+}
+.d4{
+    font-size: 50px;
+    float: right;
+    padding-right: 450px;
+    padding-top: 80px;
+    background: -webkit-linear-gradient(white, red);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#p1,#p2,#p3{
+    font-size: 18px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+#p1::first-letter{
+    font-size: 30px;
+    color: #2b28e0;
+}
+#p1{
+    color: #6F4C5B;
+}
+#p2{
+    color: #9D3C72;
+}
+#p3{
+    color: #1E6F5C;
+}
+#i1{
+    float: left;
+    margin-left: 230px;
+}
+#i2{
+    float: right;
+    margin-right: 230px;
+}
+#p3::first-letter{
+    font-size: 30px;
+    color: rgb(235, 61, 182);
+ }
+#s1{
+    margin-left: 400px;
+    font-size: 25px;
+}
+#s2{
+    margin-left: 400px;
+    font-size: 25px;
+}
+body{
+    background-image: linear-gradient(#F6C6EA, #C9F4AA,#F6FFA6, #2CD3E1);
+}
+#h1{
+    text-align: center;
+    background: linear-gradient(90deg, #00f, #2a00ff, #50f, #f00, #ff2b00, #f50, #ff8000, #fa0, #ffd500, #ff0, #d4ff00, #af0, #80ff00, #5f0, #2bff00, #0f0, #00ff2b, #0f5, #00ff80, #0fa, #00ffd5, #0ff, #00d4ff, #0af, #007fff, #05f, #002bff, #7f00ff, #a0f, #d400ff, #f0f, #ff00d4, #f0a, #ff0080, #f05, #ff002b, #f00);
+    color: #0000;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+#h2{
+    text-align: center;
+    color: #139487;
+
+}
+#h3{
+    text-align: center;
+    background: linear-gradient(90deg, #00ff2b, #0f5, #00ff80, #0fa, #00d4ff, #0af, #007fff,  #a0f, #d400ff, #f0f, #ff00d4, #f0a, #ff0080, #f05, #ff002b, #f00);
+    color: #0000;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+#aa{
+    font-size: 25px;
+    text-decoration: none;
+    color: darkorchid;
+}

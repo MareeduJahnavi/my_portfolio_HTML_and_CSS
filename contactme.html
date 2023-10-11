@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <title>ContactMe</title>
+   <link rel="icon" href="Ass6.png">
+   <link rel="stylesheet" href="contactme.css">
+</head>
+<body>
+    <p><b>FILL THE FORM TO CONTACT ME</b></p>
+    <form action="SubmitPage.html" method="get">
+
+        <label for="fname" ><b>First Name :</b></label>
+        <input type="text" placeholder="Ex. abcd" required id="fname" name="fname" pattern="[a-zA-Z]{3,15}">
+
+        <br><br>
+
+        <label for="mname"><b>Middle Name :</b></label>
+        <input type="text" id="mname" name="mname">
+        
+        <br><br>
+
+        <label for="lname"><b>Last Name :</b></label>
+        <input type="text" required id="lname" name="lname">
+
+        <br><br>
+
+        <label for="pno"><b>Phone Number :</b></label>
+        <input type="tel" placeholder="1234567890" required id="pno" name="pno" pattern="[6-9]{1}[0-9]{9}">
+
+        <br><br>
+
+        <label for="email"><b>Email :</b></label>
+        <input type="email" placeholder="Ex. abcd@gmail.com" required id="email" name="email">
+
+        <br><br>
+
+        <label for="llink"><b>Linkedin Profile:</b></label>
+        <input type="url" placeholder="http://www.linkedin.com/in/abcd" required id="llink" name="llink">
+
+        <br><br>
+
+        <label for="Reason"><b>Reason to contact me :</b></label>
+        <br><br>
+        <textarea required id="Reason" name="Reason" rows="6" cols="55"></textarea>
+
+        <br><br>
+
+        <input id="s1" type="submit" value="SUBMIT">
+        
+    </form>
+</body>
+</html>
